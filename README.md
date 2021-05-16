@@ -1,3 +1,4 @@
-# Machine_learning_assaignments
+# Machine_learning
+Please go to handwritten number recognition file to see the project I made in machine learning. ( it identifies the numbers with the help of nueral networks )
 I have almost completed the andrew NG course on machine learning from coursera.
-this repo contains the all the assignments of the course and also one file containing one project to recognize hand written numbers using neural networks
+This repo also contains the all the assignments of the course
