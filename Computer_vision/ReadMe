@@ -1,0 +1,13 @@
+This is the Computer Vision directory and it includes the implimentation of - 
+  1. HOG
+  2. DPM
+  3. Convulation
+  4. Correlation
+  5. Canny
+  6. Hough
+
+This also includes -
+  1. Lane Detection
+  2. Object Detector/Identifier
+  3. Face Detector
+  
