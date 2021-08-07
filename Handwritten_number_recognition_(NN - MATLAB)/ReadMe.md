@@ -1,3 +1,4 @@
+### Handwritten Numbers Recognition
 ML project to identify handwritten numbers using Neural networks in matlab
 Sample Data is already present in folders
 Run the "Run" file to train and show one sample output of the working code
